@@ -1,2 +1,3 @@
 # PySnake
-a snake game coded in python
+
+A simple snake game made in python
